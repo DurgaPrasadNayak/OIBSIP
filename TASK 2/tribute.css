@@ -1,0 +1,33 @@
+body{
+    margin: 60px;
+  }
+  .container-fluid{
+    background-color:#EEEEEE;
+    width: 1150px;
+    /* //width: 2000px; */
+  }
+  .header{
+    text-align: center;
+  }
+  img{
+    width:1150px;
+    height: auto;
+  }
+  #imagetext{
+    background-color: white !important;
+  }
+  .main{
+    max-width: 660px; /* for  below IE7 use `width: 660px;` */
+      margin: 0 auto;
+  }
+  li span{
+    font-weight: bold;
+  }
+  .footer{
+    text-align:center;
+  }
+  #codedby{
+    text-align:center;
+  }
+Footer
+
